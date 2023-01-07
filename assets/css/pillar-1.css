@@ -10616,7 +10616,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-wrapper {
-  padding-top: 30px;
+  padding-top: 10px;
   padding-bottom: 60px;
 }
 
@@ -10823,4 +10823,10 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-social {
     padding-top: 55px;
 }
+}
+
+.translate-button {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
 }
